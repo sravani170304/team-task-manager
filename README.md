@@ -72,7 +72,7 @@ server/
 
 ## Clone Repository
 ```bash
-git clone <your-github-repo-link>
+git clone <https://github.com/sravani170304/team-task-manager>
 ```
 
 ## Install Frontend Dependencies
